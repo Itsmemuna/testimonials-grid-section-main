@@ -1,0 +1,181 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-size: 13px;
+  background-color: #edf2f8;
+}
+.parent {
+  border: 2px solid #edf2f8;
+  height: 600px;
+  width: 1100px;
+  margin: 200px auto;
+  position: relative;
+  color: #ffffff;
+  max-height: fit-content;
+  background-color: #EDF2F8;
+}
+.first {
+  background-color: #733fc8;
+  height: 230px;
+  width: 500px;
+  margin-top: 20px;
+  margin-left: 20px;
+  border-radius: 15px;
+  font-family: "Barlow Semi Condensed";
+  padding: 20px;
+}
+
+.first b {
+  position: absolute;
+  top: 50px;
+  left: 90px;
+}
+.verify {
+  position: absolute;
+  top: 65px;
+  left: 90px;
+  opacity: 0.5;
+}
+img {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  margin-top: 10px;
+  border: 2px solid white;
+  /* padding-left: 25px; */
+}
+.daniels-testimony {
+  font-weight: 600;
+  margin: 20px 0;
+  font-size: 20px;
+}
+.daniel {
+  opacity: 0.7;
+}
+.second {
+  background-color: #49556b;
+  height: 230px;
+  width: 180px;
+  position: absolute;
+  top: 20px;
+  left: 600px;
+  border-radius: 15px;
+  padding: 20px;
+  font-family: "Barlow Semi Condensed";
+}
+.second b {
+  position: absolute;
+  top: 30px;
+  left: 70px;
+}
+.jonathanverify {
+  position: absolute;
+  top: 45px;
+  left: 70px;
+  opacity: 0.5;
+}
+.jonathans-testimony {
+  font-weight: 600;
+  margin: 20px 0;
+  font-size: 20px;
+}
+.jonathan {
+  opacity: 0.7;
+}
+
+.third {
+  background-color: white;
+  height: 230px;
+  width: 200px;
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  border-radius: 15px;
+  font-family: "Barlow Semi Condensed";
+  padding: 20px;
+  color: #000;
+}
+.third b {
+  position: absolute;
+  top: 30px;
+  left: 70px;
+}
+.jeanetteverify {
+  position: absolute;
+  top: 45px;
+  left: 70px;
+  opacity: 0.5;
+}
+.jeanettes-testimony {
+  font-weight: 600;
+  margin: 20px 0;
+  font-size: 20px;
+}
+.jeanette {
+  opacity: 0.7;
+}
+.fourth {
+  background-color: #18202d;
+  height: 230px;
+  width: 480px;
+  padding: 20px;
+  border-radius: 15px;
+  position: absolute;
+  bottom: 20px;
+  left: 300px;
+  font-family: "Barlow Semi Condensed";
+}
+.fourth b {
+  position: absolute;
+  top: 28px;
+  left: 70px;
+}
+.patrickverify{
+    position: absolute;
+  top: 45px;
+  left: 70px;
+  opacity: 0.5;
+}
+.patricks-testimony{
+    font-weight: 600;
+  margin: 20px 0;
+  font-size: 20px;
+}
+.patrick{
+    opacity: 0.7;
+}
+.fifth {
+  background-color: white;
+  height: 520px;
+  width: 180px;
+  position: absolute;
+  left: 850px;
+  top: 20px;
+  border-radius: 15px;
+  padding: 20px;
+  font-family: 'Barlow Semi Condensed';
+  color: #000;
+}
+.fifth b{
+    position: absolute;
+    top: 30px;
+    left: 70px;
+}
+.kiraverify{
+    position: absolute;
+    top: 45px;
+    left: 70px;
+    opacity: 0.5;
+}
+.kiras-testimony{
+    font-weight: 600;
+    margin: 20px 0;
+    font-size: 20px;
+}
+.kira{
+    opacity: 0.7;
+}
